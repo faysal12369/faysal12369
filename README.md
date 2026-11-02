@@ -4,7 +4,7 @@
 
 Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2024, titulaire d'un **Master 2 en Audit et Comptabilité**. J'ai conçu et livré plus de 15 applications métier — web (PHP / MySQL), mobiles et desktop (Flutter, WinDev Mobile) — et j'intègre le matériel de terrain : terminaux Honeywell, imprimantes thermiques, pointeuses ZKTeco.
 
-**Portfolio : [faysal12369.github.io/faysal](https://faysal12369.github.io/faysal/)**
+**Portfolio : [faysal12369.github.io/faysal](https://faysal12369.github.io/faysal/)** · **CV : [français](cv/CV_Faycal_Gheroufella_FR.pdf) · [English](cv/CV_Faycal_Gheroufella_EN.pdf)**
 
 ## Technologies
 
