@@ -4,6 +4,8 @@
 
 Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2024, titulaire d'un **Master 2 en Audit et Comptabilité**. J'ai conçu et livré plus de 15 applications métier — web (PHP / MySQL), mobiles et desktop (Flutter, WinDev Mobile) — et j'intègre le matériel de terrain : terminaux Honeywell, imprimantes thermiques, pointeuses ZKTeco.
 
+**Portfolio : [faysal12369.github.io](https://faysal12369.github.io)**
+
 ## Technologies
 
 - **Backend & web** : PHP 8, API REST, JWT, MySQL / MariaDB, JavaScript
@@ -19,7 +21,7 @@ Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2
 - [**TB Sinal — Tableau de bord commercial et financier**](https://github.com/faysal12369/tb-sinal-dashboard) — Application mobile de pilotage pour la direction : ventes, encaissements et créances en temps réel.
 - [**CV Maker**](https://github.com/faysal12369/cv-maker) — Application Flutter de création de CV : remplissez vos informations, choisissez un modèle, exportez en PDF. *(code source ouvert)*
 
-Autres applications réalisées (code privé) : suivi des marchés publics (SCMC), réclamations clients, système RH, ordres de mission, portail de commande de verres pour opticiens, inventaire mobile, calculateur de fret, pointage ZKTeco.
+Autres applications réalisées (code privé) : suivi des marchés publics (SCMC), réclamations clients, système RH, ordres de mission, portail de commande de verres pour opticiens, inventaire mobile, calculateur de fret, pointage ZKTeco. Contributions en équipe : ERP web de l'entreprise, SINAL Cartes (cartes de remise avec QR codes), nouvelle version de l'application de réclamations.
 
 ## Contact
 
