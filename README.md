@@ -15,13 +15,15 @@ Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2
 
 ## Projets à la une
 
+- [**ERP DS — Marchés publics, achats et logistique**](https://github.com/faysal12369/erp-ds) — projet d'équipe, **contributeur principal** : appels d'offres, lots, cautions, commandes, conteneurs, stock (145 tables, 18 rôles).
+- [**ERP DG — Moyens Généraux**](https://github.com/faysal12369/erp-dg) — projet d'équipe, **contributeur principal** : achats validés jusqu'au PDG, stock, trésorerie, missions, parc auto, RH, GED.
 - [**SinalGo — Encaissement des coursiers**](https://github.com/faysal12369/sinalgo) — Application Android utilisée par les coursiers pour encaisser les règlements des clients à la livraison : scan du bon de livraison sur terminal Honeywell, saisie du paiement, signature du client et position GPS.
 - [**Impression d'étiquettes & codes-barres (Xprinter / TSPL)**](https://github.com/faysal12369/xprinter-label-printing) — Deux applications Flutter Desktop (Windows) pour l'étiquetage des produits sur imprimantes thermiques Xprinter.
 - [**SINAL ERP — Interface Flutter Web**](https://github.com/faysal12369/sinal-erp-flutter) — Front-end Flutter Web de l'ERP de l'entreprise (marchés publics, achats, stock, clients…), connecté à un backend PHP / MySQL.
 - [**TB Sinal — Tableau de bord commercial et financier**](https://github.com/faysal12369/tb-sinal-dashboard) — Application mobile de pilotage pour la direction : ventes, encaissements et créances en temps réel.
 - [**CV Maker**](https://github.com/faysal12369/cv-maker) — Application Flutter de création de CV : remplissez vos informations, choisissez un modèle, exportez en PDF. *(code source ouvert)*
 
-Autres applications réalisées (code privé) : suivi des marchés publics (SCMC), réclamations clients, système RH, ordres de mission, portail de commande de verres pour opticiens, inventaire mobile, calculateur de fret, pointage ZKTeco. Contributions en équipe : ERP web de l'entreprise, SINAL Cartes (cartes de remise avec QR codes), nouvelle version de l'application de réclamations.
+Autres applications réalisées (code privé) : suivi des marchés publics (SCMC), réclamations clients, système RH, ordres de mission, portail de commande de verres pour opticiens, inventaire mobile, calculateur de fret, pointage ZKTeco. Contributions en équipe : SINAL Cartes (cartes de remise avec QR codes), nouvelle version de l'application de réclamations.
 
 ## Contact
 
