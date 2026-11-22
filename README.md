@@ -13,7 +13,14 @@ Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2
 - **Intégration** : SDK Honeywell, impression TSPL (Xprinter), ZKTeco, HFSQL via ODBC
 - **Automatisation & IA** : n8n, agents Google Gemini
 
-## Projets à la une
+## Code ouvert
+
+- [**Déploiement**](https://github.com/faysal12369/deploiement) — Application Windows (Flutter) qui met à jour un site PHP + MySQL sur n'importe quel serveur : seuls les fichiers modifiés partent, les migrations s'appliquent une fois, simulation puis sauvegarde avant chaque déploiement, sans SSH.
+- [**CV Maker**](https://github.com/faysal12369/cv-maker) — Application Flutter de création de CV : 12 modèles, multilingue, export PDF.
+
+## Projets chez SINAL
+
+Le code appartient à l'entreprise et reste privé : chaque lien mène à une fiche de présentation. Démonstration possible en entretien.
 
 - [**ERP DS — Marchés publics, achats et logistique**](https://github.com/faysal12369/erp-ds) — projet d'équipe, **contributeur principal** : appels d'offres, lots, cautions, commandes, conteneurs, stock (145 tables, 18 rôles).
 - [**ERP DG — Moyens Généraux**](https://github.com/faysal12369/erp-dg) — projet d'équipe, **contributeur principal** : achats validés jusqu'au PDG, stock, trésorerie, missions, parc auto, RH, GED.
@@ -21,7 +28,6 @@ Développeur chez SINAL (distribution de verres optiques, Algérie) depuis mai 2
 - [**Impression d'étiquettes & codes-barres (Xprinter / TSPL)**](https://github.com/faysal12369/xprinter-label-printing) — Deux applications Flutter Desktop (Windows) pour l'étiquetage des produits sur imprimantes thermiques Xprinter.
 - [**SINAL ERP — Interface Flutter Web**](https://github.com/faysal12369/sinal-erp-flutter) — Front-end Flutter Web de l'ERP de l'entreprise (marchés publics, achats, stock, clients…), connecté à un backend PHP / MySQL.
 - [**TB Sinal — Tableau de bord commercial et financier**](https://github.com/faysal12369/tb-sinal-dashboard) — Application mobile de pilotage pour la direction : ventes, encaissements et créances en temps réel.
-- [**CV Maker**](https://github.com/faysal12369/cv-maker) — Application Flutter de création de CV : remplissez vos informations, choisissez un modèle, exportez en PDF. *(code source ouvert)*
 
 Autres applications réalisées (code privé) : suivi des marchés publics (SCMC), réclamations clients, système RH, ordres de mission, portail de commande de verres pour opticiens, inventaire mobile, calculateur de fret, pointage ZKTeco. Contributions en équipe : SINAL Cartes (cartes de remise avec QR codes), nouvelle version de l'application de réclamations.
 
